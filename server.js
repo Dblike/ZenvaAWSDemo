@@ -25,5 +25,5 @@ app.get("/api/users", function (req, res) {
 
 var server = http.createServer(app);
 
-server.listen(3000);
-console.log("Server running on http://localhost:5000");
+server.listen(80);
+console.log("Server running on http://localhost:80");
