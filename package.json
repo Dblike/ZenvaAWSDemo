@@ -8,11 +8,12 @@
     "email": "shawn@wildermuth"
   },
   "dependencies": {
-    "express": "~3.4.8",
-    "underscore": "~1.6.0",
-    "jade": "~1.1.5",
+    "dotenv": "^6.0.0",
     "ejs": "~0.8.5",
     "ejs-locals": "~1.0.2",
+    "express": "~3.4.8",
+    "jade": "~1.1.5",
+    "underscore": "~1.6.0",
     "vash": "~0.7.7"
   },
   "devDependencies": {
